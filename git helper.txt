@@ -1,0 +1,33 @@
+to launch(to that first and make sure its in his folder main)
+$ git config --global user.name "Your Name"
+$ git config --global user.email "you@youraddress.com"
+$ git config --global push.default matching
+$ git config --global alias.co checkout
+$ git init
+
+rail s runs the server
+ctrl + c get off the server
+rails g controller xxx creates stuff
+ls list elements present in folder
+cd /c/Sites/railsfriends/friends to access main folder
+cd.. to go back to root
+clear just clears the cmd
+rails routes tells us all the routes of the pages
+localhost:3000
+
+to luanch 
+- git add .
+- git commit -am 'initial commit'
+- mkdir ~/.ssh
+- cd ~/.ssh
+- ssh-keygen.exe
+- cat id_rsa.pub
+-copy the key and put into github setting - ssh and gpg keys no title needed.
+- get your git repo online account on chrome create new repo
+…or push an existing repository from the command line
+git remote add origin https://github.com/jrme421/railsfriends.git
+git branch -M main
+git push -u origin main
+- cd /c/Sites/railsfriends/friends
+
+

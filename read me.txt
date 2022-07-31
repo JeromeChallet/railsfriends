@@ -1,0 +1,9 @@
+MADE ON WINDOWS, THATS RIGHT YOUR READ CORRECTLY ON "W I N D O W S". GIVE ME THE NOBEL PRIZE.
+
+database to keep track of your friends using Ruby on Rails and mySQL
+used bootstrap for the front end
+you can CRUD all you want
+also has a fully working user adminstration system that hides from non-registered user to access the database on the site.
+it also has the retrieving password features
+defines and assigns a user_id
+it pretty much has all the features of regular websites just in a simple form
